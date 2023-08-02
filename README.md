@@ -1,2 +1,2 @@
-# archaeothommy.github.io
+## geowaqas.github.io
 Demonstration webpage for the DMG Data Science Short Course
